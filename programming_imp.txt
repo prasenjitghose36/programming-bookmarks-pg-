@@ -1,0 +1,8 @@
+getline in C++ 
+
+see here 
+
+https://www.geeksforgeeks.org/getline-string-c/
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
